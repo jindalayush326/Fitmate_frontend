@@ -6,9 +6,14 @@ Personalized Fitness Guidance through my website.
 
 ## Some Images:
 
-<img src="https://github.com/jindalayush326/Fitmate/images/first.png"/>
-<img src="https://github.com/jindalayush326/Fitmate/images/second.png"/>
-<img src="https://github.com/jindalayush326/Fitmate/images/third.png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4959).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4960).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4961).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4962).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4963).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4964).png"/>
+<img src="https://github.com/jindalayush326/Fitmate_frontend/blob/main/images/Screenshot%20(4965).png"/>
+
 
 ## Table of Contents
 
